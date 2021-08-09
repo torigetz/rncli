@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "CLI for React Native apps",
   "main": "./src/main.js",
-  "repository": "https://github.com/tori-getz/rncli",
+  "repository": "https://github.com/torigetz/rncli",
   "author": "torigetz",
   "license": "MIT",
   "bin": {
